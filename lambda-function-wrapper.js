@@ -1,9 +1,9 @@
 //
 // lambda-function-wrapper.js
 //
-// A Lambda function that calls the "lambda-function" program in the
-// top directory, passing it the Lamba event JSON as the comand line
-// argument.
+// A Lambda function wrapper that calls the "lambda-function" program
+// in the top directory, passing it the Lamba event JSON as the comand
+// line argument.
 //
 // This can be used as a wrapper for writing Lambda functions in
 // languages other than JavaScript/nodejs.
