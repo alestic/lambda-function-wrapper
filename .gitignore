@@ -1,3 +1,7 @@
+.tags
+venv/
+.settings/
+
 # Logs
 logs
 *.log
