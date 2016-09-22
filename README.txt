@@ -1,9 +1,5 @@
 lambda-function-wrapper
 
-See also:
-
-  http://alestic.com/TBD
-
 This is a simple nodejs Lambda function wrapper that passes the Lambda
 event JSON to a program named "lambda-function" in the current
 directory.
